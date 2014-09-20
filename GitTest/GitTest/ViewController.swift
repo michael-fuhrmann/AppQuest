@@ -5,6 +5,8 @@
 //  Created by Michael Fuhrmann on 20.09.14.
 //  Copyright (c) 2014 Michael Fuhrmann. All rights reserved.
 //
+// Michael isch de coolsti :DD
+
 
 import UIKit
 
